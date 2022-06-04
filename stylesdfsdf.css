@@ -1,0 +1,388 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: "Gilroy";
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 116px;
+    width: 1440px;
+    border-radius: 0px;
+    display: flex;
+    font-weight: normal;
+    justify-content: space-between;
+    background-color: #FAFAFA;
+}
+
+
+
+.header-logo img {
+    height: 39px; 
+    width: 41px;
+    margin-left: 80px;
+    margin-top: 39px;
+}
+.header__navmenu {
+    width: 331px;
+    margin-top: 47.34px;
+    margin-bottom: 47.37px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header__navmenu a {
+    color: black;
+}
+
+.header__button {
+    height: 43.5px;
+    width: 150px;
+    margin-top: 36.73px;
+    margin-right: 34px;
+    margin-bottom: 35.77;
+    border-radius: 5px;
+    display: flex;
+    border: 1px solid #F7941E;
+    align-items: center;
+    justify-content: center;
+    color:#F7941E
+
+}
+.header__button a {
+color:#F7941E
+}
+
+a {
+    text-decoration: none;
+}
+
+.container-1 {
+    background-color: #F1F1F2;
+    width: 1440px;
+    height: 1300px;
+}
+
+.block-one {
+display: flex;
+width: 1440px;
+height: 700px;
+
+
+}
+
+.block-one-1 {
+    width: 50%;
+    height: 700px;
+}
+
+.block-one-2 {
+    width: 50%;
+    height: 700px;
+}
+
+.block-two {
+    display: flex;
+    width: 1440px;
+    height: 600px;
+}
+
+.block-two-1 {
+    width: 50%;
+    height: 600px;
+}
+.block-two-2 {
+    width: 50%;
+    margin: auto;
+}
+.block-one-1 div {
+    width: 433PX;
+    height: 411px;
+    margin-top: 154px;
+    margin-left: 162px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+
+}
+.block-one-1 h1 {
+    font-size: 56px;
+    margin-top: 0px;
+}
+.block-one-1 p {
+    font-size: 20px;
+}
+.block-one-1 button {
+    border: 1px solid #F7941E;
+    border-radius: 5px;
+    background-color: #F7941E;
+    color: #FFFFFF;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    width: 200px;
+}
+   
+
+.learn-more {
+    width: 441px;
+    margin: auto;
+}
+.how {
+    padding-bottom: 23px;
+    font-size: 32px;
+}
+
+.weve {
+font-size: 20px;
+padding-bottom: 35px;
+}
+.learn {
+    border: 1px solid #F7941E;
+    border-radius: 5px;
+    background-color: #F1F1F2;
+    color:  #F7941E;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    width: 200px;
+}
+.cantainer-2 {
+    width: 1440px;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.try {
+
+    text-align: center;
+    font-size: 18px;
+    margin: 23px 0px 64px 0px;
+}
+.gift-for {
+margin-top: 96px;
+font-size: 32px;
+text-align: center;
+}
+.block-img {
+    box-sizing: border-box;
+    display: flex;
+    margin: 0px 135px 0px 135px;
+    justify-content: space-between;
+    width: 1170px;
+    
+}
+.img-1 {
+    background-color: #FFF;
+    box-shadow: -12px 10px 15px rgba(0, 0, 0,.5);
+  
+    
+}
+.birthday {
+padding-left: 24px;
+}
+.see-more {
+padding-left: 24px;
+padding-top: 54px;
+}
+
+
+.Anniversary {
+    padding-left: 24px;
+    }
+    
+.see-more-2 {
+    padding-left: 24px;
+    padding-top: 54px;
+    }
+    .Valentines{
+        padding-left: 24px;
+        }
+        
+    .see-more-3 {
+        padding-left: 24px;
+        padding-top: 54px;
+        }
+        .Cristmas{
+            padding-left: 24px;
+            }
+            
+        .see-more-4 {
+            padding-left: 24px;
+            padding-top: 54px;
+            }
+.cantainer-3 {
+    justify-content: space-around;
+    display: flex;
+    background-color: #F7941E;
+    height: 240px;
+    width: 1440px;
+    margin-top: 135px;
+
+}
+.knopka-orange p {
+background-color: #F7941E;
+width: 200px;
+height: 50px;
+justify-content: center;
+align-items: center;
+display: flex;
+border: 1px solid #000000;
+border-radius: 5px;
+}
+.knopka-black p {
+background-color:#231F20;
+width: 200px;
+height: 50px;
+justify-content: center;
+align-items: center;
+display: flex;
+border: 1px solid #000000;
+border-radius: 5px;
+color: #FFFFFF;
+}
+.ready {
+    font-size: 32px;
+    width: 326px;
+    margin: auto;
+    margin-left: 235px;
+    padding: 0px;
+
+}
+ 
+.knopki {
+    width: 416px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin-right: 235px;
+}
+
+.container-4 {
+    width: 1440px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+    
+
+
+.text-2 {
+    font-size: 18px;
+    text-align: center;
+    margin: 23px 0px 64px 0px;
+    
+}
+.Our {
+margin-top: 96px;
+font-size: 32px;
+text-align: center;
+}
+.footer-text2 {
+    width: 570px;
+    display: block;
+
+}
+
+.footer-text {
+    width: 570px;
+    display: block;
+
+
+}
+
+.mx-w {
+    max-width: 83%;
+    margin: 0px auto;
+    
+}
+.img-black {
+display: flex;
+justify-content: center;
+}
+
+ 
+.mx-img {
+    width: 770px;
+    background-color: #231F20;
+    color: white;
+    display: block;
+   
+}
+.proc {
+   padding-left: 78px;
+    max-width: 63%;
+    padding: 0px auto;
+}
+.john {
+    font-size: 14px;
+    margin-top: 63px;
+}
+.best {
+    font-size: 48px;
+}
+
+.text-block {
+    display: flex;
+    margin-top: 40px;
+    width: 1170px;
+    justify-content: space-between;
+
+}
+
+.text-block h1 {
+    padding-top: 48px;
+    font-size: 24px;
+}
+
+.footer-menu {
+    display: flex;
+    width: 1440px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+  }
+  .li-menu {
+    padding-left: 0px;
+    width: 826px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+
+  }
+  .menu {
+      justify-content: center;
+      display: flex;
+      margin-top: 245px;
+      margin-bottom: 53px;
+  }
+
+  .lin p {
+    display: flex;  
+    background-color: #000000;
+      width: 1000px;
+      border: 1px solid #000000;
+  }
+
+  .li-logo {
+    width: 296px;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    padding-left: 0px;
+    margin-top: 56px;
+    margin-bottom: 73px;
+
+  }
+
+  .god {
+      font-size: 14px;
+  }
+
+
